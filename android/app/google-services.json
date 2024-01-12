@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7799176998",
+    "project_id": "amarwebrtc",
+    "storage_bucket": "amarwebrtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7799176998:android:6047b4388a986441a70be7",
+        "android_client_info": {
+          "package_name": "com.webrtc.amar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86kvzC7DbMcms4Sm7sM8ltCcgTD_O6Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
